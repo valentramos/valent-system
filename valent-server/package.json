@@ -1,7 +1,7 @@
 {
     "name": "backend-server",
     "version": "1.0.0",
-    "description": "Servidor backend del curso de Angular Avanzado",
+    "description": "Servidor Backend para ValentMaster",
     "main": "index.js",
     "scripts": {
         "start": "nodemon app.js",

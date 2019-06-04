@@ -62,8 +62,8 @@ export class HospitalesComponent implements OnInit {
   crearHospital() {
 
     swal({
-      title: 'Crear hospital',
-      text: 'Ingrese el nombre del hospital',
+      title: 'Crear Hospital',
+      text: 'Ingrese el nombre del Hospital',
       content: 'input',
       icon: 'info',
       buttons: true,

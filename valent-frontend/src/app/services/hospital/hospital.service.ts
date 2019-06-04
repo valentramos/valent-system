@@ -70,7 +70,7 @@ export class HospitalService {
     return this.http.put( url, hospital )
               .map( (resp: any) => {
 
-                swal('Hospital Actualiado', hospital.nombre, 'success');
+                swal('Hospital Actualizado', hospital.nombre, 'success');
                 return resp.hospital;
               });
 
